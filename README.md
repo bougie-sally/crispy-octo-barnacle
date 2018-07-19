@@ -1,2 +1,2 @@
 # crispy-octo-barnacle
-CSSI Test Repo
+Once there was a student who attended CSSI.
